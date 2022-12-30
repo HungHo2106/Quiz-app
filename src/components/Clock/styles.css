@@ -1,0 +1,14 @@
+.clock {
+  background-color: #fff;
+  color: red;
+  font-weight: 600;
+  font-size: 20px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 2px 2px 2px rgba(119, 117, 117, 0.4);
+  position: absolute;
+}

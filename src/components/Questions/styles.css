@@ -1,0 +1,33 @@
+.questions-container {
+  position: relative;
+}
+
+.clock {
+  right: 45%;
+  bottom: 83%;
+  position: absolute;
+}
+
+.question-count {
+  font-weight: 700;
+  font-size: 20px;
+  color: #312e81;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.question-count p {
+  padding-top: 40px;
+}
+
+.question-content {
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.question-content p {
+  padding: 0 50px;
+  margin-top: 15px;
+}
